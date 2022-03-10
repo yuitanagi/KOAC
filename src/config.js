@@ -5,7 +5,7 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'KOAC',
+    title: 'Kiyooka Ohe Arts Centre Sculpture Collection',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
     byline: 'By a Digital Storyteller',
     footer: 'Source: source citations, etc.',
