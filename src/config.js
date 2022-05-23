@@ -7,18 +7,17 @@ var config = {
     use3dTerrain: false,
     title: 'Kiyooka Ohe Arts Centre Sculpture Collection',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
-    footer: 'Source: source citations, etc.',
+    byline: 'By Ms. Chaudhry and Ms Yui',
+    footer: 'Project for OSGEO ALBERTA.',
     chapters: [
         {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Display Title',
-            image: './path/to/image/source.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-            location: {
-                center: [-122.418398, 37.759483],
+            title: 'Alex Caldwel, Castle, Steel',
+            image: '.untitled folder/13 Alex Caldwell brdbath.jpeg',
+            description: 'Alexander Caldwell, a former Katie Ohe sculpting student, constructed Castle after returning to Alberta after his first journey to Scotland to explore the country of his ancestors. Caldwell was captivated by the numerous beautiful castles around the UK and worked for many years to mimic the spirit of their architecture, constructing miniature, hefty steel castles. He gifted one to his instructor, Katie, and it currently displays on the eastern side of the KOAC Sculpture Garden.
+                center: [-114.2771944, 51.06919444],
                 zoom: 8.5,
                 pitch: 60,
                 bearing: 0
