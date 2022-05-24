@@ -8,7 +8,7 @@ var config = {
     title: 'Kiyooka Ohe Arts Centre Sculpture Collection',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
     byline: 'By Ms. Chaudhry and Ms Yui',
-    footer: 'Project for OSGEO ALBERTA.',
+    footer: 'Project for OSGEO ALBERTA (ask Bob for more links).',
     chapters: [
         {
             id: 'slug-style-id',
